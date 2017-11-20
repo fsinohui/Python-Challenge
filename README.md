@@ -1,3 +1,3 @@
 # Python-Challenge
 Python HW
-#hi
+#Contains all of the Python Week HW
